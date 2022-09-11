@@ -1,2 +1,2 @@
-# lessTraffic
-Graph algorithm to provide better way in graph
+# projectTemplate
+an empty project template
