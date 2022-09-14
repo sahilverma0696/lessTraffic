@@ -28,3 +28,12 @@ enum class TrafficIntensity {
     high,
     blocked,
 };
+
+enum class Status {
+    SUCCESS = 0,
+    FAIL,
+    INSERTED,
+    INSERT_FAIL,
+    EXISTS,
+    UPDATED,
+};
