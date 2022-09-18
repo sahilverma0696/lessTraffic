@@ -11,8 +11,8 @@ public:
 
                     Node        ();
     Status          setName     (string name);
-    Status          appendEdge  (Node*);
-    Status          deleteEdge  (Node*);
+    Status          appendEdge  (Node* node);
+    Status          deleteEdge  (Node* node);
 
     string          getName     ();
     int             getEdgeCount();
